@@ -507,3 +507,16 @@ baseline.json
 # Ignore AIO files, useful when changing branches 
 aio/node_modules
 aio/out-tsc
+.editorconfig
+.prettierignore
+.prettierrc
+eslint.config.js
+jest.config.ts
+jest.preset.js
+package-lock.json
+.vscode/extensions.json
+apps/ecom-frontend/tsconfig.json
+apps/ecom-frontend/tsconfig.editor.json
+apps/ecom-frontend/tsconfig.app.json
+apps/ecom-frontend/tsconfig.spec.json
+tsconfig.base.json
